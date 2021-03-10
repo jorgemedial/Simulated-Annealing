@@ -45,8 +45,6 @@ $N$ nodes is composed by $2^\frac{N(N-1)}{2}$ different configurations. Finding 
 
 The eigenratio of the graph laplacian measures the range of synchronizability of a network of coupled oscilators for different couplings. The meaning of this does not need to be understood, the eigenratio is simply a function defined over networks whose value is required to be minimal. In doing so, the configurations that we found are known as **entangled networks** (pictures below).
 
-![Entangled network 1](https://github.com/jorgemedial/Simulated-Annealing/media/Figure_1.png)
-
 ![Figure_1](https://user-images.githubusercontent.com/31573093/110714008-2019b300-8203-11eb-9e3d-5bcd17492fb4.png)
 
 ![Figure_3](https://user-images.githubusercontent.com/31573093/110714026-26a82a80-8203-11eb-8543-356280bdd58d.png)
