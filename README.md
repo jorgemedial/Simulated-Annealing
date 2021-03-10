@@ -12,6 +12,14 @@ This example project demonstrate how the [simulated annealing](https://en.wikipe
 
 Three cases are shown: a convex function with one local maximum in a 2-dimensional space, a function with two local maximum in a 2-dimensional space and a highly non-convex function in a N-dimensional space.
 
-### Convex function: 
+### Function with one local minimum. Convex function: 
 
-The simplest case would be a function with only one maximum, the global maximum. This way, there is no risk of obtaining a non-optimal solution
+The simplest case would be a function with only one maximum, the global maximum. This way, there is no risk of obtaining a non-optimal solution and the problem becomes trivial, but it is a good example to show how the mechanism works.
+
+
+
+[//]: # (a)
+
+
+### Function with two local minima
+
